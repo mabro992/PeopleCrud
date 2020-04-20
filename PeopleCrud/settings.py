@@ -37,8 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'crud',
-    'rest_framework',
+    'crud', #The current app is added to the installed app list
+    'rest_framework', #The django rest framewok is added to be used in the project
 ]
 
 MIDDLEWARE = [
