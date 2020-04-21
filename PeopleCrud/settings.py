@@ -121,4 +121,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-ALLOWED_HOSTS = ['django-env.eba-vkhyfqth.us-west-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['django-env.eba-vkhyfqth.us-west-2.elasticbeanstalk.com','127.0.0.1']
