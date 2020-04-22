@@ -1,5 +1,7 @@
 # PeopleCrud
-A CRUD API for persons managament. Developed using django-rest framework in Python 3.7
+A CRUD REST-API for persons managament. Developed using django-rest framework in Python 3.7. Deployed usign Google Coud Platform for DJANGO and API-BACK
+
+Deployed site: https://back-api-dot-people-api-275001.uc.r.appspot.com/api/people/
 
 # To run de application locally:
 - Clone the repository
